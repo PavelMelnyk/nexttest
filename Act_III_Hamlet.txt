@@ -1,7 +1,7 @@
 Script of Act III Hamlet
 Get from him why he puts on this confusion,
 
-removing 15 line of text
+This change will pushed to remote master
 
 Grating so harshly all his days of quiet
 With turbulent and dangerous lunacy?
